@@ -5,11 +5,17 @@ def linear_search(key,nums):
     return -1
 
 #Storing numbers 
-Numbers = [1,50,65,7,2,6]
+print("Enter how many numbers you want to store in list : ")
+n = int(input())
+numslist = []
+print("Enter the numbers : ")
+for p in range(n):
+    ele = int(input())
+    numslist.append(ele)
 #Taking input the number to be search
 key = int(input("Enter the number to search :"))
-position = linear_search(key,Numbers)
+position = linear_search(key,numslist)
 if(position != -1):
-    print("Number is present at position " + str(position) +  " Index position")
+    print("Number is present at " + str(position) +  " index position")
 else:
     print("Number is not present")
