@@ -17,19 +17,16 @@ void insertion_sort(int * array, size_t n) {
 }
 
 int main(void) {
-    size_t n=100;
+    size_t i, n=10;
     printf("Size: %lu \n", n);
-    int array[100];
-    for(size_t i=0; i<n; i++) {
-	array[i]=(int)(rand()%100);
-    }
-    printf("Initial array:\n");
-    for(size_t i=0; i<n; i++) {
-	printf("%d ", array[i]);
+    int array[10];
+    printf("Insert %lu elements into the array:\n", n);
+    for(i=0; i<n; i++) {
+	scanf("%d", &array[i]);
     }
     insertion_sort(array, n);
-    printf("\nSorted arrey:\n");
-    for(size_t i=0; i<n; i++) {
+    printf("\nSorted array:\n");
+    for(i=0; i<n; i++) {
 	printf("%d\n", array[i]);
     }
     return EXIT_SUCCESS;
