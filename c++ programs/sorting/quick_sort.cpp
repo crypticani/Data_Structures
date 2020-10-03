@@ -1,3 +1,6 @@
+// Author: Gaurav Gupta
+// Github: gauravgupta45
+
 #include <iostream>
 #include <cmath>
 using namespace std;
