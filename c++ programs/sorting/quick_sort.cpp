@@ -36,8 +36,13 @@ void quicksort(int *arr, int l, int r)
 
 int main()
 {
-    int n = 5;
-    int arr[n] = {45,32,2,1,36};
+    int n;
+    cout << "Enter Array Size: " << endl;
+    cin >> n;
+    int arr[n];
+    cout << "Enter Array: ";
+    for(int i = 0; i < n; i++)
+        cin >> arr[i];
     quicksort(arr,0,n);
     for (int i = 0; i<n; i++)
         cout<<arr[i]<<"\t";
