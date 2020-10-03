@@ -1,4 +1,5 @@
 // Insertion sort in C
+// contributed by nishant-08
 
 #include<stdio.h>
 #include<stdlib.h>
