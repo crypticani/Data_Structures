@@ -22,6 +22,7 @@ It contains some programs of data structures using C language.
 - Implementing Stack using Array and Structure
 - Program for conversion from infix to postfix
 - Program for conversion from infix to prefix
+- Postfix Evaluation Using Stack
 #### Queue
 - Program for Queue
 - Program for Circular Queue
