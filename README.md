@@ -1,31 +1,40 @@
 # Data_Structures
-It contains some programs of data structures using C language.
+An assortment of data structures using the robust C language.
 
 ## List of Programs
-#### Introduction to Data Structures and C
-- Program to swap two number using Function
-- Program to find Factorial of a Number
-- Program for Addition of Two Matrix
-- Program to generate the Fibonacci Series using Array
-- Program to enter and display the record of n number of students using Structure
-- Program to demonstrate the use of dynamic memory allocation using malloc()
+
+### If You're Using C
 #### Sorting
 - Bubble Sort
 - Selection Sort
-- Insertion Sort
-- Quick Sort
+#### General
+- Binary Search Tree Operations
+- Find Factorial of a Number
+- Generate the Fibonacci Series Using An Array
+- Linked List Deletion
+- Linked List Insert
+- Addition of Two Matrix
+- Enter and Display the Record of n Number of Students Using Structure
+- Swap Two Numbers Using Function
+- Demonstrate the Use of Dynamic Memory Allocation Using malloc()
+
+### If You're Using C++
+#### Searching
+- Binary Search
+#### Sorting
+- Heap Sort
+- Insertion Sort Analysis
+- Linear Search
 - Merge Sort
+#### General
+- Binomial Coefficient Dynamic Programming
+- Karatsuba
+- Money Change Problem Dynamic Programming
+- Money Change Possible Ways
+
+### If You're Using Python
 #### Searching
 - Linear Search
-- Binary Search
-#### Stack
-- Implementing Stack using Array and Structure
-- Program for conversion from infix to postfix
-- Program for conversion from infix to prefix
-#### Queue
-- Program for Queue
-- Program for Circular Queue
-#### Linked List
-- Program for Single Link List to insert a node at any point and display all nodes
-- Program for Single Link List to delete a node at any point and display all nodes
-
+#### Sorting
+- Insertion Sort
+- Selection Sort
