@@ -7,6 +7,8 @@ An assortment of data structures using the robust C language.
 #### Sorting
 - Bubble Sort
 - Selection Sort
+- Insertion Sort
+- Quick Sort
 #### Linked List
 - Program for Single Link List to insert a node at any point and display all nodes
 - Program for Single Link List to delete a node at any point and display all nodes
