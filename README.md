@@ -6,6 +6,7 @@ An assortment of data structures using the robust C language.
 ### If You're Using C
 #### Sorting
 - Bubble Sort
+- Insertion Sort
 - Selection Sort
 #### Linked List
 - Program for Single Link List to insert a node at any point and display all nodes
@@ -14,8 +15,6 @@ An assortment of data structures using the robust C language.
 - Binary Search Tree Operations
 - Find Factorial of a Number
 - Generate the Fibonacci Series Using An Array
-- Linked List Deletion
-- Linked List Insert
 - Addition of Two Matrix
 - Enter and Display the Record of n Number of Students Using Structure
 - Swap Two Numbers Using Function
