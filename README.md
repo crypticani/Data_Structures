@@ -7,6 +7,9 @@ An assortment of data structures using the robust C language.
 #### Sorting
 - Bubble Sort
 - Selection Sort
+#### Linked List
+- Program for Single Link List to insert a node at any point and display all nodes
+- Program for Single Link List to delete a node at any point and display all nodes
 #### General
 - Binary Search Tree Operations
 - Find Factorial of a Number
@@ -21,16 +24,27 @@ An assortment of data structures using the robust C language.
 ### If You're Using C++
 #### Searching
 - Binary Search
+- Linear Search
 #### Sorting
 - Heap Sort
 - Insertion Sort Analysis
-- Linear Search
 - Merge Sort
 #### General
 - Binomial Coefficient Dynamic Programming
 - Karatsuba
 - Money Change Problem Dynamic Programming
 - Money Change Possible Ways
+#### Stack
+- Implementing Stack using Array and Structure
+- Program for conversion from infix to postfix
+- Program for conversion from infix to prefix
+- Postfix Evaluation Using Stack
+#### Queue
+- Program for Queue
+- Program for Circular Queue
+#### Linked List
+- Program for Single Link List to insert a node at any point and display all nodes
+- Program for Single Link List to delete a node at any point and display all nodes
 
 ### If You're Using Python
 #### Searching
