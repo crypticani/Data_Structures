@@ -4,10 +4,10 @@ public class LinearSearch {
 
 	private static int linearSearch(int arr[], int key){
 		
-		for(int i = 0; i < arr.length;; i++){
+		for(int i = 0; i < arr.length;; i++)
 			if(a[i] == key)
 				return i;
-		}
+        
 		return -1;
 	}
 	
