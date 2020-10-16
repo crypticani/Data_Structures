@@ -30,10 +30,11 @@ An assortment of data structures using the robust C language.
 - Binary Search
 - Linear Search
 #### Sorting
-- Heap Sort
+- Bubble sort
 - Insertion Sort Analysis
 - Quick sort
 - Merge Sort
+- Heap Sort
 #### General
 - Binomial Coefficient Dynamic Programming
 - Karatsuba
@@ -41,6 +42,11 @@ An assortment of data structures using the robust C language.
 - Money Change Possible Ways
 #### Tree
 - Binary Search Tree
+
+### If you're using Java
+#### Searching
+- Linear search
+- Binary search
 
 ### If You're Using Python
 #### Searching
@@ -50,4 +56,5 @@ An assortment of data structures using the robust C language.
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+- Quick sort
 - Merge Sort
