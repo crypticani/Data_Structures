@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class LinearSearch {
 
 	private static int linearSearch(int arr[], int key){
