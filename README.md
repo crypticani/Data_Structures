@@ -47,6 +47,9 @@ An assortment of data structures using the robust C language.
 #### Searching
 - Linear search
 - Binary search
+#### Sorting
+- Merge sort
+- Quick sort
 
 ### If You're Using Python
 #### Searching
