@@ -47,6 +47,7 @@ An assortment of data structures using the robust C language.
 #### Searching
 - Linear search
 - Binary search
+- Trie data structure
 #### Sorting
 - Merge sort
 - Quick sort
