@@ -33,7 +33,7 @@ public class MergeSort {
 	public static void main(String[] args) {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int[] arr = Stream.of(br.readLine().replaceAll("\\s+", " ").split(" ")).mapToInt(Integer::parseInt).toArray();
-		partition(a, 0, a.length - 1);
-		System.out.println(Arrays.toString(a));
+		partition(arr, 0, arr.length - 1);
+		System.out.println(Arrays.toString(arr));
 	}
 }
