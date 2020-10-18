@@ -40,6 +40,8 @@ An assortment of data structures using the robust C language.
 - Karatsuba
 - Money Change Problem Dynamic Programming
 - Money Change Possible Ways
+- How Many Islands
+- Game of Two Stacks
 #### Tree
 - Binary Search Tree
 
